@@ -13,7 +13,6 @@ XOR outputs on first four pins, selectable with multiplexer from IN4
 
 ## How to test
 
-Explain how to use your project
 Change toggles from IN0 to IN4
 
 ## External hardware
