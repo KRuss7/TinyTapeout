@@ -9,8 +9,6 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
 XOR outputs on first four pins, selectable with multiplexer from IN4
 
 ## How to test
